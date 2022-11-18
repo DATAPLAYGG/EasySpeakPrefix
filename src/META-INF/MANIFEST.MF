@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: C:\Users\Liquid\IdeaProjects\Planned\src\com\Virtual\Earth\P
+ lanned.java
+
